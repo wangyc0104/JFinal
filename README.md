@@ -1,2 +1,2 @@
 # JFinal
-敏捷开发框架JFinal
+极速开发框架JFinal
